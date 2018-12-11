@@ -1,0 +1,9 @@
+sudo apt install apache2
+sudo chown -R pi:www-data /var/www/html/
+sudo chmod -R 770 /var/www/html/
+wget -O check_apache.html http://127.0.0.1
+cat ./check_apache.html
+sudo chown -R pi:www-data /var/www/html/Diagramm/amcharts/plugins/dataloader/examples/malna_csv.html
+sudo chmod -R 770 /var/www/html/Diagramm/amcharts/plugins/dataloader/examples/malna_csv.html
+sudo chown -R pi:www-data /var/www/html/Diagramm/amcharts/plugins/dataloader/dataloader.min.js
+sudo chmod -R 770 /var/www/html/Diagramm/amcharts/plugins/dataloader/examples/dataloader.min.js
