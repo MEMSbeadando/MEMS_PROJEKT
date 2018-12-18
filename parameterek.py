@@ -1,7 +1,7 @@
 server = 'smtp.gmail.com'#SMTP level kuldo szerverenek cime pl.:smtp.gmail.com
 kuldo = 'memsemailspemmer@gmail.com' #A mert adatokat tovabbito e-mail cim
 pw = 'mems3kredit' #A mert adatokat tovabbito e-mail fiokhoz tartozo jelszo
-fogado = 'memsemailfogado@gmail.com' # A mert adatokat fogado e-mail cim
+fogado = 'memsemailfogado@gmail.com' # A mert adatokat fogado e-mail cim (jelenlegi jelszo: emailfogado)
 #E-mal fiókban a: Kevésbé biztonságos alkalmazások engedélyezése opciónak bekapcsolva kell lennie.
 
 
